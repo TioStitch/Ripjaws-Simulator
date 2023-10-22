@@ -1,5 +1,5 @@
 <div display="flex">
-  <img src="https://img.shields.io/badge/Ripjaws_Game-Baixar_Jogo" alt="Build"/>
+  <img src="https://img.shields.io/badge/Ripjaws_Game-Baixar_Jogo-green" alt="Build"/>
 </div>
 
 - **Sobre o jogo**
