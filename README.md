@@ -1,3 +1,7 @@
+<div display="flex">
+  <img src="https://img.shields.io/badge/any_text-you_like-green" alt="Build"/>
+</div>
+
 - **Sobre o jogo**
 > O jogo do aquático é um jogo desenvolvido usando com base o tutorial de um YouTuber,
 > o tutorial foi usado no meu aprendizado quanto a JFrame, JPanel e como funcionam estes
