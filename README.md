@@ -1,3 +1,4 @@
+- **Sobre o jogo**
 > O jogo do aquático é um jogo desenvolvido usando com base o tutorial de um YouTuber,
 > o tutorial foi usado no meu aprendizado quanto a JFrame, JPanel e como funcionam estes
 > métodos e como aplicar eles de forma divertida.
