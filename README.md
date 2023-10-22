@@ -1,5 +1,8 @@
 <div display="flex">
-  <img src="https://img.shields.io/badge/Ripjaws_Game-Baixar_Jogo-green" alt="Build"/>
+  <a href="https://www.mediafire.com/file/r53d5oocrvhbc1b/RipjawsGame.exe/file">
+    <img src="https://img.shields.io/badge/Ripjaws_Game-Baixar_Jogo-green" alt="Build"/>
+  <a href="https://www.youtube.com/channel/UC3n0P5OYoR1qxS9krtRjFlw">
+    <img src="https://img.shields.io/badge/Meu_Canal-red" alt="Canal"/>
 </div>
 
 - **Sobre o jogo**
